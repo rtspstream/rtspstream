@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dave!
 - 👀 I’m interested in Video Streaming
-- 🌱 I’m currently learning RTSP/ONVIF/HLS/DASH
+- 🌱 I’m currently building RTSP/ONVIF/HLS/DASH Live Streaming Service, check https://www.octostream.com
 - 💞️ I’m looking to collaborate on all things Video
-- 📫 dave@rtsp.stream
+- 📫 dave@octostream.com
 
 <!---
 rtspstream/rtspstream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
